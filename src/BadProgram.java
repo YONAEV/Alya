@@ -6,4 +6,7 @@ int a = 1;
             System.out.println(a++);
         }
     }
+    double min = Double.MAX_VALUE;
+    double max = Double.MIN_VALUE;
+
 }
