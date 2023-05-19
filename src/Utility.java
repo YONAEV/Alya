@@ -5,4 +5,8 @@ public class Utility {
     }
     // added a note from Anastasia
 
+    public static void main(String[] args) {
+        System.out.println("Hello guys");
+    }
+
 }
