@@ -8,13 +8,13 @@ public class Utility {
 
     public static void main(String[] args) {
         System.out.println("Hello guys");
-
-    public static boolean isFirstAndLastLetterSame(String each){
+    }
+    /*public static boolean isFirstAndLastLetterSame(String each){
         each=each.toLowerCase();
         char firstLetter=each.charAt(0);
         char lastLetter=each.charAt(each.length()-1);
         return firstLetter==lastLetter;
 develop
     }
-
+*/
 }
